@@ -2,7 +2,7 @@
   "name": "contacts-app",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://merzainc.github.io/contacts-app",
+  "homepage": "https://merzainc.github.io/react-contacts",
   "type": "module",
   "scripts": {
     "dev": "vite",
